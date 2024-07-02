@@ -1,2 +1,3 @@
-# Tic-Tac-Toe Game in Python
-This Python script implements a simple console-based Tic-Tac-Toe game for two players. The game is played on a 3x3 grid where players take turns to place their mark (either 'X' or 'O') on the board. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game. If all nine cells are filled without a winner, the game ends in a tie.
+# Tic-Tac-Toe and Guess the Riddle Game in Python
+Tic Tac Toe - This Python script implements a simple console-based Tic-Tac-Toe game for two players. The game is played on a 3x3 grid where players take turns to place their mark (either 'X' or 'O') on the board. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game. If all nine cells are filled without a winner, the game ends in a tie.
+Guess the Riddle - The Guess the Riddle game is a fun and challenging text-based game where players try to guess the word based on a given riddle. Each riddle comes with a hint indicating the number of letters in the answer. Players have a limited number of attempts to guess the correct word.
